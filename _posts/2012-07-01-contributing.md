@@ -7,7 +7,7 @@ next_section: troubleshooting
 
 Contributions to Jekyll are always welcome, however there’s a few things that you should keep in mind to improve your chances of having your changes merged in.
 
-## Workflow
+* Workflow
 
 Here’s the most typical way to get your change merged into the project:
 
